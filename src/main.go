@@ -15,7 +15,8 @@ type Repo struct {
 }
 
 func main(){
-  var URL string = "https://api.github.com/users/jonathon-chew/repos"
+  var userName string = "jonathon-chew"
+  var URL string = fmt.Sprintf("https://api.github.com/users/%s/repos", userName)
 
   req, err := http.Get(URL)
   if err != nil{
@@ -27,12 +28,6 @@ func main(){
   var repos []Repo
   if err := json.NewDecoder(req.Body).Decode(&repos); err != nil {
     log.Fatalf("Error unmarshalling JSON: %v", err)
-  }
-
-  for _, repo := range repos {
-    fmt.Printf("Name: %s\n", repo.Name)
-    fmt.Printf("Description: %s\n", repo.Description)
-    fmt.Printf("URL: %s\n\n", repo.Url)
   }
 
   file, err := os.Create("README.md")
@@ -47,9 +42,12 @@ func main(){
 
   // Write each repo in Markdown format
   for _, repo := range repos {
-    if repo.Name != "jonathon-chew"{
+    if repo.Name != userName{
       fmt.Fprintf(file, "## [%s](%s)\n", repo.Name, repo.Url)
       fmt.Fprintf(file, "%s\n\n", repo.Description)
+      fmt.Printf("Name: %s\n", repo.Name)
+      fmt.Printf("Description: %s\n", repo.Description)
+      fmt.Printf("URL: %s\n\n", repo.Url)
     }
   }
 
