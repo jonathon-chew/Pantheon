@@ -9,7 +9,7 @@ This is a simple Go script that fetches NASA's Astronomy Picture of the Day (APO
 ## [Pantheon](https://github.com/jonathon-chew/Pantheon)
 A repository which is an index to all my other's
 
-## [terminal_website](https://github.com/jonathon-chew/terminal_website)
+## [Runestone](https://github.com/jonathon-chew/Runestone)
 This is an example profile page for a dev that allows user input, and made to look like a terminal
 
 ## [Zephyrus](https://github.com/jonathon-chew/Zephyrus)
