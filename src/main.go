@@ -47,8 +47,10 @@ func main(){
 
   // Write each repo in Markdown format
   for _, repo := range repos {
-    fmt.Fprintf(file, "## [%s](%s)\n", repo.Name, repo.Url)
-    fmt.Fprintf(file, "%s\n\n", repo.Description)
+    if repo.Name != "jonathon-chew"{
+      fmt.Fprintf(file, "## [%s](%s)\n", repo.Name, repo.Url)
+      fmt.Fprintf(file, "%s\n\n", repo.Description)
+    }
   }
 
   fmt.Println("Markdown file created: repos.md")

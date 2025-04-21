@@ -3,11 +3,11 @@
 ## [Chimera](https://github.com/jonathon-chew/Chimera)
 A series of scripts that can run depending on what is avaliable to you
 
-## [jonathon-chew](https://github.com/jonathon-chew/jonathon-chew)
-Config files for my GitHub profile.
-
 ## [Nyx](https://github.com/jonathon-chew/Nyx)
 This is a simple Go script that fetches NASA's Astronomy Picture of the Day (APOD) and downloads it to your local machine.
+
+## [Pantheon](https://github.com/jonathon-chew/Pantheon)
+A repository which is an index to all my other's
 
 ## [terminal_website](https://github.com/jonathon-chew/terminal_website)
 This is an example profile page for a dev that allows user input, and made to look like a terminal
