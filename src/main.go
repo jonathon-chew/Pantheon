@@ -44,7 +44,7 @@ func main(){
   // Write each repo in Markdown format
   for _, repo := range repos {
     if repo.Name != userName{
-      fmt.Fprintf(file, "## [%s](%s) :star: %d\n", repo.Name, repo.Url, repo.Star)
+      fmt.Fprintf(file, "## [%s](%s) <div style='text-align: right;'>:star: %d</div>\n", repo.Name, repo.Url, repo.Star)
       fmt.Fprintf(file, "%s\n\n", repo.Description)
       fmt.Printf("Name: %s\n", repo.Name)
       fmt.Printf("Description: %s\n", repo.Description)
