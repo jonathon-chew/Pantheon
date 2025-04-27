@@ -12,6 +12,7 @@ type Repo struct {
   Name string `json:"name"`
   Description string `json:"description"`
   Url string `json:"html_url"`
+	Star int `json:"stargazers_count"`
 }
 
 func main(){
@@ -43,7 +44,7 @@ func main(){
   // Write each repo in Markdown format
   for _, repo := range repos {
     if repo.Name != userName{
-      fmt.Fprintf(file, "## [%s](%s)\n", repo.Name, repo.Url)
+      fmt.Fprintf(file, "## [%s](%s) :star: %d\n", repo.Name, repo.Url, repo.Star)
       fmt.Fprintf(file, "%s\n\n", repo.Description)
       fmt.Printf("Name: %s\n", repo.Name)
       fmt.Printf("Description: %s\n", repo.Description)
