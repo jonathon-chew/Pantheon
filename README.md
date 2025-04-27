@@ -1,5 +1,8 @@
 # GitHub Repositories
 
+## [aphrodite](https://github.com/jonathon-chew/aphrodite)
+A package for colour terminal outputs in go
+
 ## [Chimera](https://github.com/jonathon-chew/Chimera)
 A series of scripts that can run depending on what is avaliable to you
 
