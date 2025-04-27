@@ -31,7 +31,9 @@ func main(){
     log.Fatalf("Error unmarshalling JSON: %v", err)
   }
 
-  file, err := os.Create("README.md")
+	var fileName string = "README.md"
+
+  file, err := os.Create(fileName)
   if err != nil {
     log.Fatalf("Error creating file: %v", err)
   }
@@ -52,5 +54,5 @@ func main(){
     }
   }
 
-  fmt.Println("Markdown file created: repos.md")
+  fmt.Printf("Markdown file created: %s", fileName)
 }
