@@ -1,4 +1,4 @@
-# GitHub Repositories
+# 🏛️ GitHub Repositories
 
 ## [Aphrodite](https://github.com/jonathon-chew/Aphrodite) :star: 0
 A package for colour terminal outputs in go
