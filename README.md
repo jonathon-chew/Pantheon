@@ -1,7 +1,7 @@
 # GitHub Repositories
 
 ## [Aphrodite](https://github.com/jonathon-chew/Aphrodite) :star: 1
-A package for colour terminal outputs in go
+A package for beautifying terminal outputs in go
 
 ## [Chimera](https://github.com/jonathon-chew/Chimera) :star: 1
 A series of scripts that can run depending on what is avaliable to you
