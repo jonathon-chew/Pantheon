@@ -15,6 +15,9 @@ A repository which is an index to all my other's
 ## [Runestone](https://github.com/jonathon-chew/Runestone) :star: 0
 This is an example profile page for a dev that allows user input, and made to look like a terminal
 
+## [Thoth](https://github.com/jonathon-chew/Thoth) :star: 0
+Find all the todos in your code base
+
 ## [Zephyrus](https://github.com/jonathon-chew/Zephyrus) :star: 0
 A simple web app using python and APIs to find the weather at given locations. 100 British locations pre-programmed in but google map URLs work just as well
 
