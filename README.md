@@ -6,11 +6,14 @@ A package for beautifying terminal outputs in go
 ## [Chimera](https://github.com/jonathon-chew/Chimera) :star: 1
 A series of scripts that can run depending on what is avaliable to you
 
+## [config_files](https://github.com/jonathon-chew/config_files) :star: 0
+This is a repository for my config files
+
 ## [Nyx](https://github.com/jonathon-chew/Nyx) :star: 0
 This is a simple Go script that fetches NASA's Astronomy Picture of the Day (APOD) and downloads it to your local machine.
 
 ## [Pantheon](https://github.com/jonathon-chew/Pantheon) :star: 0
-A repository which is an index to all my other's
+A repository which is an index to all my others
 
 ## [Runestone](https://github.com/jonathon-chew/Runestone) :star: 0
 This is an example profile page for a dev that allows user input, and made to look like a terminal
