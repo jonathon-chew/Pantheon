@@ -15,6 +15,9 @@ This is a simple Go script that fetches NASA's Astronomy Picture of the Day (APO
 ## [Pantheon](https://github.com/jonathon-chew/Pantheon) :star: 0
 A repository which is an index to all my others
 
+## [Rat](https://github.com/jonathon-chew/Rat) :star: 0
+Colourful cat in go
+
 ## [Runestone](https://github.com/jonathon-chew/Runestone) :star: 0
 This is an example profile page for a dev that allows user input, and made to look like a terminal
 
