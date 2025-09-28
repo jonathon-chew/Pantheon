@@ -6,6 +6,9 @@ A package for beautifying terminal outputs in go
 ## [Chimera](https://github.com/jonathon-chew/Chimera) :star: 1
 A series of scripts that can run depending on what is avaliable to you
 
+## [Nomos](https://github.com/jonathon-chew/Nomos) :star: 0
+Check code against a set of rules
+
 ## [Nyx](https://github.com/jonathon-chew/Nyx) :star: 0
 This is a simple Go script that fetches NASA's Astronomy Picture of the Day (APOD) and downloads it to your local machine.
 
