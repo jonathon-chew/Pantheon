@@ -6,6 +6,12 @@ A package for beautifying terminal outputs in go
 ## [Chimera](https://github.com/jonathon-chew/Chimera) :star: 2
 A series of scripts that can run depending on what is avaliable to you
 
+## [DIMWishList](https://github.com/jonathon-chew/DIMWishList) :star: 0
+Wishlist without pandapaxxy
+
+## [Nabu](https://github.com/jonathon-chew/Nabu) :star: 0
+Bookmarks but for the terminal
+
 ## [Nomos](https://github.com/jonathon-chew/Nomos) :star: 1
 Check code against a set of rules
 
