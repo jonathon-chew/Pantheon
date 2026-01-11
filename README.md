@@ -3,6 +3,9 @@
 ## [Aphrodite](https://github.com/jonathon-chew/Aphrodite) :star: 1
 A package for beautifying terminal outputs in go
 
+## [Argus](https://github.com/jonathon-chew/Argus) :star: 0
+A Universal Pipe Inspector / Debugger
+
 ## [Chimera](https://github.com/jonathon-chew/Chimera) :star: 2
 A series of scripts that can run depending on what is avaliable to you
 
