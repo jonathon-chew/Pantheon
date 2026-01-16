@@ -34,7 +34,7 @@ Colourful cat in go
 This is an example profile page for a dev that allows user input, and made to look like a terminal
 
 ## [Thoth](https://github.com/jonathon-chew/Thoth) :star: 1
-Sync text todos and github issues
+a developer-focused CLI that bridges local git workflows and GitHub automation.
 
 ## [Zephyrus](https://github.com/jonathon-chew/Zephyrus) :star: 1
 A simple web app using python and APIs to find the weather at given locations. 100 British locations pre-programmed in but google map URLs work just as well
