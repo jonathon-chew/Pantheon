@@ -3,14 +3,17 @@
 ## [Aphrodite](https://github.com/jonathon-chew/Aphrodite) :star: 1
 A package for beautifying terminal outputs in go
 
-## [Argus](https://github.com/jonathon-chew/Argus) :star: 0
-A Universal Pipe Inspector / Debugger
-
 ## [Chimera](https://github.com/jonathon-chew/Chimera) :star: 2
 A series of scripts that can run depending on what is avaliable to you
 
 ## [DIMWishList](https://github.com/jonathon-chew/DIMWishList) :star: 0
 Wishlist without pandapaxxy
+
+## [go-pipepeek](https://github.com/jonathon-chew/go-pipepeek) :star: 0
+Pipe inspector/debugger showing live stats while streaming unchanged data
+
+## [go-repoflow](https://github.com/jonathon-chew/go-repoflow) :star: 0
+Git+GitHub workflow helper
 
 ## [Nabu](https://github.com/jonathon-chew/Nabu) :star: 0
 Bookmarks but for the terminal
@@ -32,9 +35,6 @@ Colourful cat in go
 
 ## [Runestone](https://github.com/jonathon-chew/Runestone) :star: 1
 This is an example profile page for a dev that allows user input, and made to look like a terminal
-
-## [Thoth](https://github.com/jonathon-chew/Thoth) :star: 1
-a developer-focused CLI that bridges local git workflows and GitHub automation.
 
 ## [Zephyrus](https://github.com/jonathon-chew/Zephyrus) :star: 1
 A simple web app using python and APIs to find the weather at given locations. 100 British locations pre-programmed in but google map URLs work just as well
